@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:blue_print_pos/models/blue_device.dart';
 import 'package:blue_thermal_printer/blue_thermal_printer.dart' as blue_thermal;
+import 'package:bluetooth_pos/models/blue_device.dart';
 // import 'package:flutter_blue_plus/flutter_blue_plus.dart' as flutter_blue;
 
 /// This class with static method to handler scanning in Android and iOS

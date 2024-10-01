@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:typed_data';
-
-import 'package:blue_print_pos/blue_print_pos.dart';
-import 'package:blue_print_pos/models/models.dart';
-import 'package:blue_print_pos/receipt/receipt.dart';
+import 'package:bluetooth_pos/blue_print_pos.dart';
+import 'package:bluetooth_pos/models/blue_device.dart';
+import 'package:bluetooth_pos/models/connection_status.dart';
+import 'package:bluetooth_pos/receipt/receipt.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
