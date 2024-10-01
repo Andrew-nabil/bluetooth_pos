@@ -1,6 +1,6 @@
 import 'dart:developer';
 import 'dart:io';
-import 'dart:typed_data';
+// import 'dart:typed_data';
 import 'dart:ui';
 
 import 'package:blue_print_pos/models/models.dart';
@@ -9,7 +9,7 @@ import 'package:blue_print_pos/scanner/blue_scanner.dart';
 import 'package:blue_thermal_printer/blue_thermal_printer.dart' as blue_thermal;
 import 'package:esc_pos_utils_plus/esc_pos_utils.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_blue_plus/flutter_blue_plus.dart' as flutter_blue;
+// import 'package:flutter_blue_plus/flutter_blue_plus.dart' as flutter_blue;
 // import 'package:flutter_blue_plus/gen/flutterblueplus.pb.dart' as proto;
 import 'package:image/image.dart' as img;
 import 'package:qr_flutter/qr_flutter.dart';
